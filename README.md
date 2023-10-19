@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lee Jian Ai</h1>
 <h3 align="center">A First Year Student studying for Bachelor of Computer Science (Graphics and Multimedia Software) in Universiti Teknologi Malaysia</h3>
+<img src = https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif width="160" height="160" class="center">
 
 
 </p>
