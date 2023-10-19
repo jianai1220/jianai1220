@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Lee Jian Ai, currently a first year student of Bachelor of Computer Science (Graphics and Multimedia Software) in Universiti Teknologi Malaysia.
+
 <!--
 **jianai1220/jianai1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
