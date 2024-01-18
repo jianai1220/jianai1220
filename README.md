@@ -7,10 +7,10 @@
 
 
 ### ><i>Basic Information</i>
-*📍 Kuala Lumpur, Malaysia
-*🏫 Y1 Student of BACHELOR OF COMPUTER SCIENCE  (GRAPHICS AND MULTIMEDIA SOFTWARE) WITH HONOURS in UNIVERSITI TEKNOLOGI MALAYSIA 
-*💭 Likes to write, read and draw. Sings occasionally.
-*👩‍💻 Coding is my passion.
+* 📍 Kuala Lumpur, Malaysia
+* 🏫 Y1 Student of Bachelor of Computer Science (Graphics and Multimedia Software) with Honours in Universiti Teknologi Malaysia
+* 💭 Likes to write, read and draw. Sings occasionally.
+* 👩‍💻 Coding is my passion.
 
 
 ### ><i>Languages</i>
@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/yurarin520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yurarin520" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"><b><i>Sorcerer? I hardly even know her.</i></b></h3>
+<h3 align="center"><b><i> 🤔 Sorcerer? I hardly even know her. 🤷‍♀️ </i></b></h3>
 
 
 
