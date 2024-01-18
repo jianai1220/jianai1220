@@ -43,7 +43,7 @@
 ### <i> Connect with me</i>
 <p align="left">
 <a href="https://instagram.com/jianaiii_1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jianaiii_1220" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yurarin520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yurarin520" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yurarin520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yurarin520" height="30" width="40" /></a>
 </p>
 
 ###
