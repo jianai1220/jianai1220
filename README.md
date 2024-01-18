@@ -11,6 +11,7 @@
 * 🏫 Y1 Student of Bachelor of Computer Science (Graphics and Multimedia Software) with Honours in Universiti Teknologi Malaysia
 * 💭 Likes to write, read and draw. Sings occasionally.
 * 👩‍💻 Coding is my passion.
+* 👀 Watches Vtuber livestreams from time to time.
   
 ###
 
@@ -27,6 +28,12 @@
 
 ### <i> Languages </i>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<i> ......and if you include spoken languages </i>
+* Chinese
+* English
+* Malay
+* Japanese <i>(still learning)</i>
 
 ###
 
