@@ -7,6 +7,10 @@
 
 
 ### ><i>Basic Information</i>
+*📍 Kuala Lumpur, Malaysia
+*🏫 Y1 Student of BACHELOR OF COMPUTER SCIENCE  (GRAPHICS AND MULTIMEDIA SOFTWARE) WITH HONOURS in UNIVERSITI TEKNOLOGI MALAYSIA 
+*💭 Likes to write, read and draw. Sings occasionally.
+*👩‍💻 Coding is my passion.
 
 
 ### ><i>Languages</i>
