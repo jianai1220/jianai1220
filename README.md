@@ -2,8 +2,7 @@
 <img src = https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif width="160" height="160"/>
 </div>
 <h1 align="center">Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.tenor.com/m/CU-PX1m0egYAAAAC/wave-hi.gif" width="30px"/>
-  , I'm Lee Jian Ai</h1>
+  <div class="tenor-gif-embed" data-postid="27040745" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hand-gif-gif-27040745">Hand Gif Sticker</a>from <a href="https://tenor.com/search/hand+gif-stickers">Hand Gif Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="left">A First Year Student studying for Bachelor of Computer Science (Graphics and Multimedia Software) in Universiti Teknologi Malaysia</h3>
 
 
