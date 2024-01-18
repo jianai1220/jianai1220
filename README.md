@@ -30,7 +30,7 @@
 * Class Monitor (2013)
 * Best Student Award (2016)
 * Class Monitor Assistant (2017)
-* Prefect (2018-2021)
+* School Prefect (2018-2021)
 
 
 ### <i> Languages/Skills </i>
