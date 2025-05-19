@@ -9,7 +9,7 @@
 
 ## <i> > Basic Informations</i>
 * 📍 Kuala Lumpur, Malaysia
-* 🏫 Y1 Student of Bachelor of Computer Science (Graphics and Multimedia Software) with Honours in Universiti Teknologi Malaysia
+* 🏫 Y2 Student of Bachelor of Computer Science (Graphics and Multimedia Software) with Honours in Universiti Teknologi Malaysia
 * 💭 Likes to write, read and draw. Sings occasionally.
 * 👩‍💻 Coding is my passion.
 * 👀 Watches Vtuber livestreams from time to time.
